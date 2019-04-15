@@ -7,8 +7,12 @@ body {
 }.tagline {
     font-family: 'Berkshire Swash', cursive;
 }
+.is-center {
+    text-align: center;
+}
 .info-desc {
     font-family: 'Roboto';
     letter-spacing: 0.05em;
     line-height: 1.2em;
+    text-align: center;
 }
