@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on HackerFarm</title>
+    <link>/tags/study/</link>
+    <description>Recent content in Study on HackerFarm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to HackerFarm</title>
+      <link>/blog/2018/10/31/general-info/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/10/31/general-info/</guid>
+      <description>HackerFarm is primarily a physical plus internet camping space and gets activated because of &amp;ldquo;curious and creative attendees&amp;rdquo;. The basic temporary setups like living building, kitchen, bathroom and hi-speed net connection are arranged to make sure that we remain connected with the global online sphere while spending our time here.
+Hackers&amp;rsquo;Castle The castle is a raised space at the farm (built using pallet racks) and campers pitch their tents on its floors.</description>
+    </item>
+    
+  </channel>
+</rss>

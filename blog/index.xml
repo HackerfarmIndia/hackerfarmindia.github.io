@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on HackerFarm</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on HackerFarm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upcoming: Camps, Communities &amp; Events</title>
+      <link>/blog/2019/02/14/upcoming/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/02/14/upcoming/</guid>
+      <description>We like to enable more camps around a lot of stuffs and connect with more communities. Following this idea to invite different camps plus communities, we are likely to learn more and its better for everyone here.
+Organizing Events/Workshops/Meetups to let people explore things at our base could be done too.
+Camps we might start : 1. HF StartUp Camp (using StartUp School online curriculum) 2. CodeCamp v2.0 (a month camp in Himalayas during summer) Communities across world : 1.</description>
+    </item>
+    
+    <item>
+      <title>Survival Guide HF2019 : Must Read</title>
+      <link>/blog/2019/01/26/camping-resources/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/01/26/camping-resources/</guid>
+      <description>Participation We really like active and engaging participants at the base and NO spectators here. HackerFarm is only functional because of the attendees.
+▾ HackerFarm ▾ Study Camps ▾ Digital Nomads ▾ Events | Workshops  Leave No Trace The farm is very raw natural space and we would always like to keep it the same way. So please make sure to keep the trash in the trash cans or take back what you bring here especially plastics etc.</description>
+    </item>
+    
+    <item>
+      <title>A day &amp; night at HackerFarm</title>
+      <link>/blog/2019/01/01/life-at-hackerfarm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/01/01/life-at-hackerfarm/</guid>
+      <description>Daily Routine  8 AM Yoga*   9 AM Breakfast   10 AM Study*   1 PM Lunch   2 PM Projects*   5 PM Games/Unicycle Kirtan   8 PM Dinner   Yoga &amp;amp; Volunteering We expect all campers to participate in core community activities. Yoga happens weekdays (Mon to Fri) at 8 in morning and all people must attend. We follow slightly modified Ashtanga series with meditations/pranayamas for an hour.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to HackerFarm</title>
+      <link>/blog/2018/10/31/general-info/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/10/31/general-info/</guid>
+      <description>HackerFarm is primarily a physical plus internet camping space and gets activated because of &amp;ldquo;curious and creative attendees&amp;rdquo;. The basic temporary setups like living building, kitchen, bathroom and hi-speed net connection are arranged to make sure that we remain connected with the global online sphere while spending our time here.
+Hackers&amp;rsquo;Castle The castle is a raised space at the farm (built using pallet racks) and campers pitch their tents on its floors.</description>
+    </item>
+    
+  </channel>
+</rss>
