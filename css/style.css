@@ -20,6 +20,11 @@ a {
   transition: 0.5s;
 }
 
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 a:hover,
 a:active,
 a:focus {
