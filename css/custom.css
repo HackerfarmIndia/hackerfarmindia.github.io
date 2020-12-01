@@ -175,3 +175,12 @@
 .credits {
   display: none;
 }
+
+
+#online {
+  text-decoration: none;
+}
+
+#online.link {
+  text-decoration: none;
+}
