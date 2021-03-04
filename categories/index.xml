@@ -8,20 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>one</title>
-      <link>/categories/one/</link>
+      <title>hackerfarm</title>
+      <link>/categories/hackerfarm/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>two</title>
-      <link>/categories/two/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/two/</guid>
+      <guid>/categories/hackerfarm/</guid>
       <description></description>
     </item>
     
